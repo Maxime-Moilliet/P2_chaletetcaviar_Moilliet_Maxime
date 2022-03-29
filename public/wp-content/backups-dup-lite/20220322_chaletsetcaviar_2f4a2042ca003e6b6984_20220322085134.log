@@ -1,0 +1,86 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: March 22, 2022 8:51 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.4
+WORDPRESS:	5.9.2
+PHP INFO:	7.4.1 | SAPI: cgi-fcgi
+SERVER:		nginx/1.16.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+MEMORY STACK: 2MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:13 | filtered:0 | create:13
+FILTERED: []
+SQL CREATED: 20220322_chaletsetcaviar_2f4a2042ca003e6b6984_20220322085134_database.sql
+SQL FILE SIZE: 2.31MB (2424268)
+SQL FILE TIME: 2022-03-22 08:51:43
+SQL RUNTIME: 1.18 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/Users/mlltm/Local Sites/pchalet01code/app/public
+ARCHIVE FILE: 20220322_chaletsetcaviar_2f4a2042ca003e6b6984_20220322085134_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	172.5MB
+STATS:	Dirs 431 | Files 3,434
+SQL ADDED: 20220322_chaletsetcaviar_2f4a2042ca003e6b6984_20220322085134_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3865
+    [filename] => C:\Users\mlltm\Local Sites\pchalet01code\app\public\wp-content\backups-dup-lite\tmp\20220322_chaletsetcaviar_2f4a2042ca003e6b6984_20220322085134_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 3864
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 120.08MB
+ARCHIVE RUNTIME: 34.49 sec.
+MEMORY STACK: 4MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/Users/mlltm/Local Sites/pchalet01code/app/public/wp-content/backups-dup-lite/tmp/20220322_chaletsetcaviar_2f4a2042ca003e6b6984_20220322085134_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 2.31MB
+INSTALLER FILE: 64.6KB
+ARCHIVE FILE: 121.09MB 
+EXPECTED FILE/DIRECTORY COUNT: 3,865
+ACTUAL FILE/DIRECTORY COUNT: 3,864
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 36.80 sec.
+PEAK PHP MEMORY USED: 6MB
+DONE PROCESSING => 20220322_chaletsetcaviar March 22, 2022 8:52 am
+
